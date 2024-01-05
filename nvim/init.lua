@@ -19,10 +19,12 @@ if astronvim.default_colorscheme then
     )
   end
 end
-
+vim.g.terminal_emulator='zsh'
 -- highlight Normal guibg=none
 -- highlight NonText guibg=none
 -- highlight Normal ctermbg=none
 -- highlight NonText ctermbg=none
 
 require("astronvim.utils").conditional_func(astronvim.user_opts("polish", nil, false), true)
+
+
