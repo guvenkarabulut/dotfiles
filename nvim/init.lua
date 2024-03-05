@@ -24,7 +24,3 @@ vim.g.terminal_emulator='zsh'
 -- highlight NonText guibg=none
 -- highlight Normal ctermbg=none
 -- highlight NonText ctermbg=none
-
-require("astronvim.utils").conditional_func(astronvim.user_opts("polish", nil, false), true)
-
-

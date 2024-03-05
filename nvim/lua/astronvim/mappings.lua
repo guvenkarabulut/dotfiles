@@ -491,7 +491,7 @@ map('i', '<C-j>', '<down>', opts )
 map('i', '<C-k>', '<up>', opts )
 map('i', '<C-l>', '<right>', opts )
 
-
-
+map('n', '<A-j>', ':m .+1<CR>', opts)
+map('n', '<A-k>', ':m .-2<CR>', opts)
 
 utils.set_mappings(astronvim.user_opts("mappings", maps))

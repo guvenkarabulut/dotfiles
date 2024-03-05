@@ -1,0 +1,26 @@
+{
+  "prefs": {
+    "Spacing": "\"Normal\"",
+    "WorkflowsBoxOpen": "true",
+    "ChangelogVersions": "{\"v0.2024.02.20.08.01.stable_01\":true,\"v0.2024.02.20.08.01.stable_02\":true,\"v0.2024.02.27.08.01.stable_03\":true}",
+    "WorkingDirectoryConfig": "{\"advanced_mode\":false,\"global\":{\"mode\":\"HomeDir\",\"custom_dir\":\"\"},\"split_pane\":{\"mode\":\"PreviousDir\",\"custom_dir\":\"\"},\"new_tab\":{\"mode\":\"PreviousDir\",\"custom_dir\":\"\"},\"new_window\":{\"mode\":\"PreviousDir\",\"custom_dir\":\"\"}}",
+    "FontName": "\"Fira Code\"",
+    "HasAutoOpenedWelcomeFolder": "true",
+    "WelcomeTipsFeaturesUsed": "[{\"Action\":\"CommandPalette\"},{\"Action\":\"WarpAI\"},{\"Action\":\"CommandSearch\"},{\"Hint\":\"BlockSelect\"},{\"Action\":\"AiCommandSearch\"},{\"Hint\":\"CreateBlock\"},{\"Action\":\"SplitPane\"},{\"Hint\":\"BlockAction\"},{\"Action\":\"ThemePicker\"},{\"Action\":\"OpenWarpDrive\"},{\"Action\":\"SaveNewLaunchConfig\"}]",
+    "ExperimentId": "70661a16-1070-4a2a-a2bd-80757723f16e",
+    "Theme": "\"Koi\"",
+    "AddedSubshellCommands": "[]",
+    "FontSize": "13.0",
+    "ReceivedReferralTheme": "\"Inactive\"",
+    "Shortcuts": "true",
+    "QuakeModeEnabled": "true",
+    "DismissedWarpAIWarmWelcome": "true",
+    "AIAssistantRequestLimitInfo": "{\"limit\":100,\"num_requests_used_since_refresh\":2,\"next_refresh_time\":\"2024-02-29T19:42:04.112674Z\"}",
+    "HonorPS1": "false",
+    "AutosuggestionAcceptedCount": "2",
+    "WelcomeTipsCompleted": "true",
+    "ActivationHotkeyEnabled": "false",
+    "ShouldDimInactivePanes": "false",
+    "StartupShellOverride": "\"zsh\""
+  }
+}
